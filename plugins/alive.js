@@ -14,7 +14,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         // Generate system status message
         const status = `          
-╭━━〔 *𝐇𝐀𝐒𝐇𝐀𝐍-𝐌𝐃* 〕━━┈⊷
+╭━━〔 *SANUKA-𝐌INI* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *👋 ʜɪ*: ${pushname}
 ┃◈┃• *⏳ ᴜᴘᴛɪᴍᴇ*:  ${runtime(process.uptime())} 
